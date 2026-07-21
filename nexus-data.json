@@ -313,22 +313,6 @@
         "mace": "HT4"
       },
       "titleOverride": null
-    },
-    {
-      "id": "315f9839-5b24-41dd-9ca7-0a9454152523",
-      "username": "itzdogpvp",
-      "region": "eu",
-      "tiers": {
-        "vanilla": "HT1",
-        "sword": "none",
-        "axe": "none",
-        "nethpot": "none",
-        "diamondpot": "none",
-        "smp": "LT3",
-        "uhc": "none",
-        "mace": "HT4"
-      },
-      "titleOverride": null
     }
   ]
 }
