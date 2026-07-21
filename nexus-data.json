@@ -313,7 +313,8 @@
         "mace": "HT4"
       },
       "titleOverride": null
-      {
+    },
+    {
       "id": "8a420253-48c2-4fe0-805a-5529f8812fba",
       "username": "BradMCT",
       "region": "NA",
@@ -328,6 +329,7 @@
         "mace": "HT4"
       },
       "titleOverride": null
+    },
     }
   ]
 }
