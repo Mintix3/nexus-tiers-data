@@ -313,22 +313,6 @@
         "mace": "HT4"
       },
       "titleOverride": null
-    },
-    {
-      "id": "8a420253-48c2-4fe0-805a-5529f8812fba",
-      "username": "broo",
-      "region": "NA",
-      "tiers": {
-        "vanilla": "HT3",
-        "sword": "LT3",
-        "axe": "none",
-        "nethpot": "none",
-        "diamondpot": "none",
-        "smp": "none",
-        "uhc": "none",
-        "mace": "HT4"
-      },
-      "titleOverride": null
     }
   ]
 }
